@@ -8,3 +8,5 @@ This is apllication which can cenzor words which you wanted 🫠🫠🫠
  - Cenzor-app
 
 ---
+
+https://cenzor-app.netlify.app/
